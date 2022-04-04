@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IamParm
+- 👋 Hi, I’m Parminder Singh
 - 👀 I’m interested in Data Analytics and Machine Learning
 - 🌱 I’m currently learning Python and SQL. Later i am interested in learning R
 - 💞️ I’m looking to collaborate on Data Analytics and Machine Learning Projects
