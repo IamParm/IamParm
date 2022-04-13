@@ -5,7 +5,8 @@
 - ⚡ Fun facts: Sports, nutrition
 
 What I do:
-  https://github.com/gaoqian310/gaoqian310/raw/c4e64a393dc186f3990f8db909dac2ba679037fe/what_I%20_do.svg
+  ![image](https://user-images.githubusercontent.com/88454048/163246496-babb2601-6d41-4a79-984e-7b6a571a210a.png)
+
 <!---
 IamParm/IamParm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
